@@ -1,3 +1,3 @@
-# Ceren-Isci_Comp3123_Assignment1
-# 101287638_COMP3123-exec06
-# 101287638_COMP_3104_assignment2
+Name: Ceren Isci
+Student ID: 101287638
+Email: 101287638@georgebrown.ca
